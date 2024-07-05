@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitesh-18
 - 👀 I’m interested in FULL-STACK Web DEV, CP
-- 🌱 I’m currently solving LeetCode Problems and developing Full-Stack projects.
+- 🌱 I’m currently developing Full-Stack projects.
 - 💬 Ask me about C++, Frontend Web, MERN Stack, Java, Python.
 - 📫 How to reach me niteshranjankar5@gmail.com
 - ⚡ Fun fact I feel everytime I haven't done justice to my potential 
