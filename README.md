@@ -4,7 +4,10 @@
 - 💬 Ask me about C++, Fron-tend Web, MERN Stack, Java, Python.
 - 📫 How to reach me niteshranjankar5@gmail.com
 - ⚡ Fun fact I feel everytime I haven't justiced my potential 
-<!---
-Nitesh-18/Nitesh-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitesh-r-a15518243/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/Nitesh1831)
+[![LeetCode](https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/22bjIGZCTX/)
+
