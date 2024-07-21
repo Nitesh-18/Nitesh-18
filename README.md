@@ -5,6 +5,21 @@
 - 📫 How to reach me niteshranjankar5@gmail.com 
 - ⚡ Fun fact I feel everytime I haven't justiced my potential 
 
+### Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+
+---
+
+
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitesh-r-a15518243/)
