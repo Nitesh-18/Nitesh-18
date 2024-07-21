@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nitesh-18
 - 👀 I’m interested in FULL-STACK Web DEV.
 - 🌱 I’m currently developing Full-Stack Projects.
-- 💬 Ask me about C++, Frontend Web, MERN Stack, Java, Python.
+- 💬 Ask me about C++, Web Dev, Java, Python.
 - 📫 How to reach me niteshranjankar5@gmail.com 
 - ⚡ Fun fact I feel everytime I haven't justiced my potential 
 
