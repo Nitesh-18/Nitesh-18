@@ -4,6 +4,15 @@
 - 💬 Ask me about C++, Web Dev, Java, Python.
 - 📫 How to reach me niteshranjankar5@gmail.com 
 - ⚡ Fun fact I feel everytime I haven't justiced my potential 
+---
+
+### Projects:
+
+- **Project Name 1** - [Repository Link](https://github.com/niteshranjankar/project1)
+- **Project Name 2** - [Repository Link](https://github.com/niteshranjankar/project2)
+- **Project Name 3** - [Repository Link](https://github.com/niteshranjankar/project3)
+
+---
 
 ### Languages and Tools:
 
@@ -26,4 +35,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/Nitesh1831)
 [![LeetCode](https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/22bjIGZCTX/)
 
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nitesh-18&show_icons=true&theme=radical)
