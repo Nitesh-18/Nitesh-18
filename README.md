@@ -11,3 +11,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/Nitesh1831)
 [![LeetCode](https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/22bjIGZCTX/)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nitesh-18&show_icons=true&theme=radical)
