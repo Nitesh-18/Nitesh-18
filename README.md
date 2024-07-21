@@ -8,9 +8,9 @@
 
 ### Projects:
 
-- **Project Name 1** - [Repository Link](https://github.com/niteshranjankar/project1)
-- **Project Name 2** - [Repository Link](https://github.com/niteshranjankar/project2)
-- **Project Name 3** - [Repository Link](https://github.com/niteshranjankar/project3)
+- **FIT_CONNECT** - [Repository Link](https://github.com/Nitesh-18/FIT-CONNECT)
+- **THE-VIRTUAL-VAULT** - [Repository Link](https://github.com/Nitesh-18/The-Virtual-Vault)
+- **BLOG APP** - [Repository Link](https://github.com/Nitesh-18/Mini-Project)
 
 ---
 
