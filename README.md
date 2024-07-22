@@ -28,7 +28,6 @@
 
 ---
 
-
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitesh-r-a15518243/)
@@ -36,4 +35,5 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/22bjIGZCTX/)
 
 ---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nitesh-18&show_icons=true&theme=radical)
