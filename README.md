@@ -36,6 +36,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nitesh-18&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nitesh-18&show_icons=true&theme=radical)       ![Nitesh-18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-18&theme=react&hide_border=false)
 
-![Nitesh-18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-18&theme=react&hide_border=false)
+
+![Nitesh-18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-18&theme=react&show_icons=true&hide_border=false&layout=compact)
