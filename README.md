@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Nitesh-18
+# Hi, I'm Nitesh! 👋
+
+## 🚀 About Me
+
 - 👀 I’m interested in FULL-STACK Web DEV.
 - 🌱 I’m currently developing Full-Stack Projects.
 - 💬 Ask me about Web Dev, C++, Java, Python.
 - 📫 How to reach me niteshranjankar5@gmail.com 
-- ⚡ Fun fact I feel everytime I haven't justiced my potential 
+- ⚡ Fun fact I feel everytime I haven't justiced my potential
+
 ---
 
 ### Projects:
@@ -14,7 +18,7 @@
 
 ---
 
-### Languages and Tools:
+## 🛠 Skills:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
