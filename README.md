@@ -28,6 +28,9 @@
 
 ---
 
+![Visitors](https://komarev.com/ghpvc/?username=Nitesh-18&label=Visitors)
+
+---
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitesh-r-a15518243/)
