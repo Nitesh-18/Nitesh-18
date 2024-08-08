@@ -12,7 +12,7 @@
 
 ### Projects:
 
-- **FIT_CONNECT** - [Repository Link](https://github.com/Nitesh-18/FIT-CONNECT)
+- **3D-PORTFOLIO** - [Repository Link](https://github.com/Nitesh-18/3D_portfolio)
 - **THE-VIRTUAL-VAULT** - [Repository Link](https://github.com/Nitesh-18/The-Virtual-Vault)
 - **BLOG APP** - [Repository Link](https://github.com/Nitesh-18/Mini-Project)
 
