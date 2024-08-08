@@ -14,7 +14,7 @@
 
 - **3D-PORTFOLIO** - [Repository Link](https://github.com/Nitesh-18/3D_portfolio)
 - **THE-VIRTUAL-VAULT** - [Repository Link](https://github.com/Nitesh-18/The-Virtual-Vault)
-- **BLOG APP** - [Repository Link](https://github.com/Nitesh-18/Mini-Project)
+- **VIEWMATE** - [Repository Link](https://github.com/Nitesh-18/ViewMate)
 
 ---
 
