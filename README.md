@@ -23,8 +23,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
