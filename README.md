@@ -36,6 +36,10 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
+
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+
 ---
 
 ![Visitors](https://komarev.com/ghpvc/?username=Nitesh-18&label=Visitors)
