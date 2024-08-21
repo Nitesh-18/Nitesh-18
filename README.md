@@ -39,6 +39,7 @@
 
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 
 ---
 
