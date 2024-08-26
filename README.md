@@ -38,6 +38,7 @@
 
 
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
