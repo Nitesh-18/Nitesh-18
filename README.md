@@ -29,6 +29,7 @@
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Tailwind Css](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwindcss)
+![Tailwind Css](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
