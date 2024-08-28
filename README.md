@@ -30,11 +30,11 @@
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Tailwind Css](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwindcss)
 
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
 
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
