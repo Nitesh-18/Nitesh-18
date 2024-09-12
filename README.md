@@ -25,18 +25,17 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Tailwind Css](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwindcss)
-![Tailwind Css](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
+![Etherum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-
 
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
