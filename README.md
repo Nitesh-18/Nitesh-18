@@ -53,7 +53,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitesh-r-a15518243/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/Nitesh1831)
-[![LeetCode](https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/22bjIGZCTX/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Nitesh-18/)
 
 ---
 
