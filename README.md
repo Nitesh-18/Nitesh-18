@@ -12,8 +12,8 @@
 
 ### Projects:
 
+- **NetFusion** - [Repository Link](https://github.com/Nitesh-18/NetFusion)
 - **3D-PORTFOLIO** - [Repository Link](https://github.com/Nitesh-18/3D_portfolio)
-- **THE-VIRTUAL-VAULT** - [Repository Link](https://github.com/Nitesh-18/The-Virtual-Vault)
 - **VIEWMATE** - [Repository Link](https://github.com/Nitesh-18/ViewMate)
 
 ---
