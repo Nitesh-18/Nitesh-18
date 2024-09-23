@@ -1,8 +1,8 @@
-# Hi, I'm Nitesh! 👋
+# Hi, Myself Nitesh! 👋
+# I'm a FULL-STACK WEB DEVELOPER
 
 ## 🚀 About Me
 
-- 👀 I’m interested in FULL-STACK Web DEV.
 - 🌱 I’m currently developing Full-Stack Projects.
 - 💬 Ask me about Web Dev, C++, Java, Python.
 - 📫 How to reach me niteshranjankar5@gmail.com 
