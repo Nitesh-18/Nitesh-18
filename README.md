@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently developing Full-Stack Projects.
 - 💬 Ask me about Web Dev, C++, Java, Python.
-- 📫 How to reach me niteshranjankar5@gmail.com 
+- 📫 How to reach me niteshranjankar5@gmail.com
 - ⚡ Fun fact I feel everytime I haven't justiced my potential
 
 ---
