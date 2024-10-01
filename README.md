@@ -27,10 +27,10 @@
 ![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Tailwind Css](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwindcss)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
-![Tailwind Css](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwindcss)
 ![Etherum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
