@@ -10,7 +10,7 @@
 
 ---
 
-### Projects:
+### Projects: 
 
 - **NetFusion** - [Repository Link](https://github.com/Nitesh-18/NetFusion)
 - **Health-Tracking-App** - [Deployed Link](https://health-tracking-app-jmv3.onrender.com/)
