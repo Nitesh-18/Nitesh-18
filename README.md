@@ -12,7 +12,7 @@
 
 ### Projects: 
 
-- **NR_DIR** - [Deployed Link](https://nr-dir-startups.vercel.app/)
+- **NR_DIR Startups** - [Deployed Link](https://nr-dir-startups.vercel.app/)
 - **Health-Tracking-App** - [Deployed Link](https://health-tracking-app-jmv3.onrender.com/)
 - **VIEWMATE** - [Repository Link](https://github.com/Nitesh-18/ViewMate)
 
