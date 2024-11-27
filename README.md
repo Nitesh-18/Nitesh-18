@@ -21,6 +21,7 @@
 ## 🛠 Skills:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
@@ -33,6 +34,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Sanity](https://img.shields.io/badge/-Sanity-black?style=flat-square&logo=sanity)
 ![Sentry](https://img.shields.io/badge/-Sentry-black?style=flat-square&logo=sentry)
+![ESlint](https://img.shields.io/badge/-ESlint-black?style=flat-square&logo=eslint)
 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
