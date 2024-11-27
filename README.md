@@ -32,7 +32,7 @@
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Sanity](https://img.shields.io/badge/-Sanity-black?style=flat-square&logo=sanity)
-![Groq](https://img.shields.io/badge/-Groq-black?style=flat-square&logo=groq)
+![Sentry](https://img.shields.io/badge/-Sentry-black?style=flat-square&logo=sentry)
 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
